@@ -25,7 +25,7 @@ To run this script, you'll need:
 
 ## Usage
 
-To execute the script, simply run `python script_name.py` in your terminal (replace `script_name.py` with the actual file name).
+To execute the script, simply run `python GitHubAPI.py` in your terminal.
 
 ## Visual Output
 
